@@ -41,6 +41,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    background-color: #800000;
   }
 }
 
@@ -48,6 +49,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background-color: #800000;
 
   &--lg {
     padding-right: 2em;
