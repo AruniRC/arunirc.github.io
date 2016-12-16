@@ -1,10 +1,7 @@
 ---
-layout: splash
+layout: page
 title: About
 permalink: /about/
-classes:
-  - landing
-  - dark-theme
 ---
 
 * About Me
