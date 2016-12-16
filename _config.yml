@@ -78,18 +78,18 @@ analytics:
 # Site Author
 author:
   name             : "Aruni RC"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "http://people.cs.umass.edu/~arunirc/images/dp1.jpg"
   bio              : "Computer vision researcher."
   location         : "Amherst, MA."
   email            :
   uri              :
-  bitbucket        : https://bitbucket.org/AruniRC/
+  bitbucket        : "https://bitbucket.org/AruniRC/"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/AruniRC/
+  github           : "https://github.com/AruniRC/"
   google_plus      :
   keybase          :
   instagram        :
