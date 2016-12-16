@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "AruniRC@UMass"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Aruni RoyChowdhury"
+description              : "Homepage"
 url                      : "https://arunirc.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Aruni RC"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Computer vision researcher."
+  location         : "Amherst, MA."
   email            :
   uri              :
-  bitbucket        :
+  bitbucket        : https://bitbucket.org/AruniRC/
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/AruniRC/
   google_plus      :
   keybase          :
   instagram        :
