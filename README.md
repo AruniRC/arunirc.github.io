@@ -4,7 +4,7 @@
 
 # GitHub.io personal page
 
-![Website URL](https://arunirc.github.io/)
+[Website URL](https://arunirc.github.io/)
 
 Based off the following theme:
 
