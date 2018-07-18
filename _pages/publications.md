@@ -14,8 +14,6 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
-Publications:
-
 * **The Best of Both Worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation.** Pia Bideau, Aruni RoyChowdhury, Rakesh Menon, Erik Learned-Miller. *Computer Vision and Pattern Recognition (CVPR), 2018*.[{project page}](http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/index.html)
 * **Reducing Duplicate Filters in Deep Neural Networks.** Aruni RoyChowdhury, Prakhar Sharma and Erik Learned-Miller. *NIPS workshop on Deep Learning: Bridging Theory and Practice (DLTP), 2017*. [{paper}](http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf)
 * **Bilinear Convolutional Neural Networks for Fine-grained Visual Recognition.** Tsung-Yu Lin, Aruni RoyChowdhury and Subhransu Maji. *IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2017*. [{project page}](http://vis-www.cs.umass.edu/bcnn/) 
