@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Blog"
     url: /year-archive/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
