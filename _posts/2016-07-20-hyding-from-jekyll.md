@@ -1,5 +1,6 @@
 ---
 title: Hyding from Jekyll
+date: 2016-07-20
 ---
 
 Jekyll and GitHub pages have definitely given a slick look to webpages, coming from a person who used to fiddle around with DHTML on old blogger templates (and frames, yes frames, that relic of the 90s!) as a (naturally) nerdy teenager. 
