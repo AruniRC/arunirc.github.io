@@ -22,3 +22,4 @@ I have spent two happy summers in 2017 and 2014 interning at The Mathworks Inc. 
 
 In the past I had worked on scene text detection and handwriting recognition at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/). My mentors there had been Profs [Ujjwal Bhattacharya](http://www.isical.ac.in/~ujjwal/) and [Swapan K Parui](http://www.isical.ac.in/~swapan/). 
 
+Here is a link to my [CV](https://www.dropbox.com/s/9jim01jzx0efwir/cv_arunirc_2019.pdf?dl=0).
