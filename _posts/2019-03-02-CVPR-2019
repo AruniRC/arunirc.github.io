@@ -1,0 +1,11 @@
+---
+title: Paper at CVPR 2019
+date: 2019-03-02
+---
+
+Our work on domain adapation of object detectors using unlabeled video is accepted at CVPR 2019. 
+It provides a straight-forward way to adapt to novel domains with minimal dependence on hyper-parameters or a labeled validation set. 
+
+A big shout-out to everyone who made this possible - Prithvijit, Ashish, Huaizu, SouYoung and of course our professors Liangliang and Erik.
+
+Details and pre-print coming soon . . . 
