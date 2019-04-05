@@ -101,6 +101,19 @@ Please check latest publications on [Google scholar](https://scholar.google.com/
 </tr>
 
 <tr>
+<td markdown="span"> <img src="http://vis-www.cs.umass.edu/lfw/Six_Face_Panels_sm.jpg" alt="[LFW Survey]"> </td>
+<td markdown="span">
+   <b>Labeled Faces in the Wild: A Survey.</b> <br>
+    Erik Learned-Miller, Gary B. Huang, <font color="DarkSlateGray">Aruni RoyChowdhury</font>, Haoxiang Li, and Gang Hua.
+  <br>
+  <em>Advances in Face Detection and Facial Image Analysis, Springer, 2016.</em>. 
+  <br>
+    <a href="https://people.cs.umass.edu/~elm/papers/LFW_survey.pdf">[paper]</a>
+    <a href="http://vis-www.cs.umass.edu/lfw/">[poject page]</a>
+  </td>
+</tr>
+
+<tr>
 <td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/face-bcnn.png" alt="[Face B-CNN]"> </td>
 <td markdown="span">
    <b>One-to-many face recognition with bilinear CNNs.</b> <br>
