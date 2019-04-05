@@ -14,12 +14,14 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
-I'm a fifth year graduate student in the MS/PhD programme at the School of Computer Science, University of Massachusetts. My research interests are in **Computer Vision** and **Machine Learning**, focusing on fine-grained recognition, face recognition and object detection. I am co-advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/) and Prof. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) at the [UMass Vision Lab](http://vis-www.cs.umass.edu/). I have also worked with Prof. [Dan Sheldon](https://people.cs.umass.edu/~sheldon/) on an ecological computing project.
+I'm a final year graduate student in the MS/PhD programme at the [UMass Computer Vision Lab](http://vis-www.cs.umass.edu/). My research interests are in **Computer Vision** and **Machine Learning**, spanning work in unsupervised domain adaptation, object detection, fine-grained recognition and face recognition. I am advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and co-advised by Prof. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and Prof. [Liangliang Cao](http://llcao.net/).
 
-I maintain the website for [FDDB](http://vis-www.cs.umass.edu/fddb/) - a benchmark for detecting faces. I have been a reviewer for CVPR and the journals TPAMI and CVIU. At UMass I help organize the [Machine Learning and Friends Lunch](https://people.cs.umass.edu/~mlfriend/pmwiki/pmwiki.php) (MLFL) seminar series. Earlier, I was involved in [GRiD](http://gridclub.io/), a multidisciplinary graduate student organisation for data science.
+<mark>Here is a link to my <a href="https://www.dropbox.com/s/z4bqmtl8mhgk7h3/cv_arunirc_2019.pdf?dl=0">[CV]</a></mark>. 
 
-I have spent two happy summers in 2017 and 2014 interning at The Mathworks Inc. with the [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) team.
+Please check my [Publications](https://arunirc.github.io/publications/) page for more details on my research.
+
+I maintain the website for [FDDB](http://vis-www.cs.umass.edu/fddb/) - a benchmark for detecting faces. I have been a reviewer for CVPR, ICCV, NIPS/NeurIPS and the journals TPAMI and CVIU. At UMass I help organize the [Machine Learning and Friends Lunch](https://people.cs.umass.edu/~mlfriend/pmwiki/pmwiki.php) (MLFL) seminar series. Earlier, I was involved in [GRiD](http://gridclub.io/), a multidisciplinary graduate student organisation for data science.
+
+This summer (2019) I am going to intern with NEC Labs in San Jose. Earlier, I spent two happy summers in 2017 and 2014 interning at The Mathworks Inc. with the [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) team.
 
 In the past I had worked on scene text detection and handwriting recognition at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/). My mentors there had been Profs [Ujjwal Bhattacharya](http://www.isical.ac.in/~ujjwal/) and [Swapan K Parui](http://www.isical.ac.in/~swapan/). 
-
-Here is a link to my [CV](https://www.dropbox.com/s/z4bqmtl8mhgk7h3/cv_arunirc_2019.pdf?dl=0).
