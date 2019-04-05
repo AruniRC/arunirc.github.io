@@ -14,18 +14,21 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
+Please check latest publications on [Google scholar](https://scholar.google.com/citations?user=jDkvHcAAAAAJ&hl=en).
+
+
 <table border="0">
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
 <tbody>
-  
+
 <tr>
 <td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/unsupVideo/docs/intro_self-sup.png" alt="[Self-train]"> </td>
 <td markdown="span">
    <b>Automatic adaptation of object detectors to new domains using self-training, </b> <br>
-  Aruni RoyChowdhury, Prithvijit Chakrabarty, Ashish Singh, SouYoung Jin, Huaizu Jiang, Liangliang Cao and Erik Learned-Miller.
+  <font color="DarkSlateGray">Aruni RoyChowdhury</font>, Prithvijit Chakrabarty, Ashish Singh, SouYoung Jin, Huaizu Jiang, Liangliang Cao and Erik Learned-Miller.
   <br>
   <em>Computer Vision and Pattern Recognition (CVPR), 2019 </em>. 
   <br>
@@ -39,7 +42,7 @@ layouts_gallery:
 <td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/hard_ex_preview.png" alt="[HardExample]"> </td>
 <td markdown="span">
    <b>Unsupervised Hard Example Mining from Videos for Improved Object Detection.</b> <br>
-  SouYoung Jin*, Aruni RoyChowdhury*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty and Erik Learned-Miller.
+  SouYoung Jin*, <font color="DarkSlateGray">Aruni RoyChowdhury</font>*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty and Erik Learned-Miller.
   <br>
   <em>European Conference on Computer Vision (ECCV), 2018 </em>. 
   <br>
@@ -52,7 +55,7 @@ layouts_gallery:
 <td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/methodOverview.png" alt="[MotionSegment]"> </td>
 <td markdown="span">
    <b>The Best of Both Worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation.</b> <br>
-  Pia Bideau, Aruni RoyChowdhury, Rakesh Menon, Erik Learned-Miller.
+  Pia Bideau, <font color="DarkSlateGray">Aruni RoyChowdhury</font>, Rakesh Menon, Erik Learned-Miller.
   <br>
   <em>Computer Vision and Pattern Recognition (CVPR), 2018 </em>. 
   <br>
@@ -64,7 +67,7 @@ layouts_gallery:
 <td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/Slide1.png" alt="[DuplicateFilters]"> </td>
 <td markdown="span">
    <b>Reducing Duplicate Filters in Deep Neural Networks.</b> <br>
-  Aruni RoyChowdhury, Prakhar Sharma and Erik Learned-Miller.
+  <font color="DarkSlateGray">Aruni RoyChowdhury</font>, Prakhar Sharma and Erik Learned-Miller.
   <br>
   <em>NIPS workshop on Deep Learning: Bridging Theory and Practice (DLTP), 2017</em>. 
   <br>
@@ -76,7 +79,7 @@ layouts_gallery:
 <td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/bcnn/docs/teaser-bcnn.png" alt="[B-CNN TPAMI]"> </td>
 <td markdown="span">
    <b>Bilinear Convolutional Neural Networks for Fine-grained Visual Recognition.</b> <br>
-  Tsung-Yu Lin, Aruni RoyChowdhury and Subhransu Maji.
+  Tsung-Yu Lin, <font color="DarkSlateGray">Aruni RoyChowdhury</font> and Subhransu Maji.
   <br>
   <em>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2017</em>. 
   <br>
@@ -89,7 +92,7 @@ layouts_gallery:
 <td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/radar-cnn.png" alt="[Radar]"> </td>
 <td markdown="span">
    <b>Distinguishing Weather Phenomena from Bird Migration Patterns in Radar Imagery.</b> <br>
-  Aruni RoyChowdhury, Daniel Sheldon, Subhransu Maji and Erik Learned-Miller.
+  <font color="DarkSlateGray">Aruni RoyChowdhury</font>, Daniel Sheldon, Subhransu Maji and Erik Learned-Miller.
   <br>
   <em>CVPR workshop on Perception Beyond the Visual Spectrum (PBVS), 2016</em>. 
   <br>
@@ -101,7 +104,7 @@ layouts_gallery:
 <td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/face-bcnn.png" alt="[Face B-CNN]"> </td>
 <td markdown="span">
    <b>One-to-many face recognition with bilinear CNNs.</b> <br>
-  Aruni RoyChowdhury, Tsung-Yu Lin, Subhransu Maji and Erik Learned-Miller.
+  <font color="DarkSlateGray">Aruni RoyChowdhury</font>, Tsung-Yu Lin, Subhransu Maji and Erik Learned-Miller.
   <br>
   <em>Winter Conference on Applications of Computer Vision (WACV), 2016</em>. 
   <br>
@@ -115,7 +118,7 @@ layouts_gallery:
 <td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/bcnn-architecture.png" alt="[Bilinear CNN]"> </td>
 <td markdown="span">
    <b>Bilinear CNN Models for Fine-grained Visual Recognition.</b> <br>
-  Tsung-Yu Lin, <font color="blue">Aruni RoyChowdhury</font> and Subhransu Maji.
+  Tsung-Yu Lin, <font color="DarkSlateGray">Aruni RoyChowdhury</font> and Subhransu Maji.
   <br>
   <em>International Conference on Computer Vision (ICCV), 2015</em>. 
   <br>
@@ -130,7 +133,7 @@ layouts_gallery:
 
 
 
-## Older publications:
+## Older publications from undergrad:
 
 * **Stroke level user-adaptation for stroke order free online handwriting recognition.** D Dutta, A Roy Chowdhury, U Bhattacharya, SK Parui. *International Conference on Frontiers in Handwriting Recognition (ICFHR), 2014.*
 * **Scene text detection using sparse stroke information and MLP.** A Roy Chowdhury, U Bhattacharya, SK Parui. *International Conference on Pattern Recognition (ICPR), 2012.*
