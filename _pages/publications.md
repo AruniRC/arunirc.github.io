@@ -49,6 +49,8 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <br>
      <a href="https://people.cs.umass.edu/~arunirc/downloads/pubs/unsup_video_eccv2018.pdf">[paper]</a>
      <a href="http://vis-www.cs.umass.edu/unsupVideo/">[project page]</a>
+  <br>
+  \* equal contribution
   </td>
 </tr>
 
