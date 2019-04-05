@@ -14,41 +14,124 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
-<table>
+<table border="0">
 <colgroup>
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
 <tbody>
+  
 <tr>
-<td markdown="span">First column **fields**</td>
+<td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/unsupVideo/docs/intro_self-sup.png" alt="[Self-train]"> </td>
 <td markdown="span">
-  **Unsupervised Hard Example Mining from Videos for Improved Object Detection.** SouYoung Jin\*, Aruni RoyChowdhury\*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty, and Erik Learned-Miller. *European Conference on Computer Vision (ECCV), 2018*. [{paper}](https://people.cs.umass.edu/~arunirc/downloads/pubs/unsup_video_eccv2018.pdf) [{project page}](http://vis-www.cs.umass.edu/unsupVideo/)
+   <b>Automatic adaptation of object detectors to new domains using self-training, </b> <br>
+  Aruni RoyChowdhury, Prithvijit Chakrabarty, Ashish Singh, SouYoung Jin, Huaizu Jiang, Liangliang Cao and Erik Learned-Miller.
+  <br>
+  <em>Computer Vision and Pattern Recognition (CVPR), 2019 </em>. 
+  <br>
+     <a href="http://vis-www.cs.umass.edu/unsupVideo/docs/self-train_cvpr2019.pdf">[paper]</a>
+     <a href="http://vis-www.cs.umass.edu/unsupVideo/">[project page]</a>
   </td>
 </tr>
+
+
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
+<td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/hard_ex_preview.png" alt="[HardExample]"> </td>
+<td markdown="span">
+   <b>Unsupervised Hard Example Mining from Videos for Improved Object Detection.</b> <br>
+  SouYoung Jin*, Aruni RoyChowdhury*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty and Erik Learned-Miller.
+  <br>
+  <em>European Conference on Computer Vision (ECCV), 2018 </em>. 
+  <br>
+     <a href="https://people.cs.umass.edu/~arunirc/downloads/pubs/unsup_video_eccv2018.pdf">[paper]</a>
+     <a href="http://vis-www.cs.umass.edu/unsupVideo/">[project page]</a>
+  </td>
 </tr>
+
+<tr>
+<td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/methodOverview.png" alt="[MotionSegment]"> </td>
+<td markdown="span">
+   <b>The Best of Both Worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation.</b> <br>
+  Pia Bideau, Aruni RoyChowdhury, Rakesh Menon, Erik Learned-Miller.
+  <br>
+  <em>Computer Vision and Pattern Recognition (CVPR), 2018 </em>. 
+  <br>
+     <a href="http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/index.html">[project page]</a>
+  </td>
+</tr>
+
+<tr>
+<td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/Slide1.png" alt="[DuplicateFilters]"> </td>
+<td markdown="span">
+   <b>Reducing Duplicate Filters in Deep Neural Networks.</b> <br>
+  Aruni RoyChowdhury, Prakhar Sharma and Erik Learned-Miller.
+  <br>
+  <em>NIPS workshop on Deep Learning: Bridging Theory and Practice (DLTP), 2017</em>. 
+  <br>
+     <a href="http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf">[paper]</a>
+  </td>
+</tr>
+
+<tr>
+<td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/bcnn/docs/teaser-bcnn.png" alt="[B-CNN TPAMI]"> </td>
+<td markdown="span">
+   <b>Bilinear Convolutional Neural Networks for Fine-grained Visual Recognition.</b> <br>
+  Tsung-Yu Lin, Aruni RoyChowdhury and Subhransu Maji.
+  <br>
+  <em>IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2017</em>. 
+  <br>
+    <a href="https://arxiv.org/pdf/1504.07889.pdf">[paper]</a>
+     <a href="http://vis-www.cs.umass.edu/bcnn/">[project page]</a>
+  </td>
+</tr>
+
+<tr>
+<td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/radar-cnn.png" alt="[Radar]"> </td>
+<td markdown="span">
+   <b>Distinguishing Weather Phenomena from Bird Migration Patterns in Radar Imagery.</b> <br>
+  Aruni RoyChowdhury, Daniel Sheldon, Subhransu Maji and Erik Learned-Miller.
+  <br>
+  <em>CVPR workshop on Perception Beyond the Visual Spectrum (PBVS), 2016</em>. 
+  <br>
+    <a href="http://people.cs.umass.edu/~arunirc/downloads/pubs/cnn_radar_pbvs16.pdf">[paper]</a>
+  </td>
+</tr>
+
+<tr>
+<td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/face-bcnn.png" alt="[Face B-CNN]"> </td>
+<td markdown="span">
+   <b>One-to-many face recognition with bilinear CNNs.</b> <br>
+  Aruni RoyChowdhury, Tsung-Yu Lin, Subhransu Maji and Erik Learned-Miller.
+  <br>
+  <em>Winter Conference on Applications of Computer Vision (WACV), 2016</em>. 
+  <br>
+    <a href="http://people.cs.umass.edu/~arunirc/downloads/pubs/bcnn_face_wacv16.pdf">[paper]</a>
+    <a href="http://people.cs.umass.edu/~arunirc/downloads/pubs/bcnn_face_wacv16_slides.pdf">[slides]</a>
+    <a href="http://arxiv.org/abs/1506.01342">[arxiv (old)]</a>
+  </td>
+</tr>
+
+<tr>
+<td markdown="span"> <img src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/bcnn-architecture.png" alt="[Bilinear CNN]"> </td>
+<td markdown="span">
+   <b>Bilinear CNN Models for Fine-grained Visual Recognition.</b> <br>
+  Tsung-Yu Lin, <font color="blue">Aruni RoyChowdhury</font> and Subhransu Maji.
+  <br>
+  <em>International Conference on Computer Vision (ICCV), 2015</em>. 
+  <br>
+  <a href="http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf">[paper]</a>
+  <a href="http://vis-www.cs.umass.edu/bcnn/">[project page]</a>
+  </td>
+</tr>
+
+  
 </tbody>
 </table>
 
 
-              
-* **Unsupervised Hard Example Mining from Videos for Improved Object Detection.** SouYoung Jin\*, Aruni RoyChowdhury\*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty, and Erik Learned-Miller. *European Conference on Computer Vision (ECCV), 2018*. [{paper}](https://people.cs.umass.edu/~arunirc/downloads/pubs/unsup_video_eccv2018.pdf) [{project page}](http://vis-www.cs.umass.edu/unsupVideo/)
-* **The Best of Both Worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation.** Pia Bideau, Aruni RoyChowdhury, Rakesh Menon, Erik Learned-Miller. *Computer Vision and Pattern Recognition (CVPR), 2018*.[{project page}](http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/index.html)
-* **Reducing Duplicate Filters in Deep Neural Networks.** Aruni RoyChowdhury, Prakhar Sharma and Erik Learned-Miller. *NIPS workshop on Deep Learning: Bridging Theory and Practice (DLTP), 2017*. [{paper}](http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf)
-* **Bilinear Convolutional Neural Networks for Fine-grained Visual Recognition.** Tsung-Yu Lin, Aruni RoyChowdhury and Subhransu Maji. *IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2017*. [{project page}](http://vis-www.cs.umass.edu/bcnn/) 
-* **Distinguishing Weather Phenomena from Bird Migration Patterns in Radar Imagery.** Aruni RoyChowdhury, Daniel Sheldon, Subhransu Maji and Erik Learned-Miller. *CVPR workshop on Perception Beyond the Visual Spectrum (PBVS), 2016*. [{paper}](http://people.cs.umass.edu/~arunirc/downloads/pubs/cnn_radar_pbvs16.pdf)
-* **One-to-many face recognition with bilinear CNNs.** Aruni RoyChowdhury, Tsung-Yu Lin, Subhransu Maji and Erik Learned-Miller. *Winter Conference on Applications of Computer Vision (WACV), 2016.* [{paper}](http://people.cs.umass.edu/~arunirc/downloads/pubs/bcnn_face_wacv16.pdf) [{slides}](http://people.cs.umass.edu/~arunirc/downloads/pubs/bcnn_face_wacv16_slides.pdf) [{arxiv-old}](http://arxiv.org/abs/1506.01342) 
-* **Bilinear CNN Models for Fine-grained Visual Recognition.** Tsung-Yu Lin, Aruni RoyChowdhury and Subhransu Maji. *International Conference on Computer Vision (ICCV), 2015.* [{project page}](http://vis-www.cs.umass.edu/bcnn/)
+
+## Older publications:
+
 * **Stroke level user-adaptation for stroke order free online handwriting recognition.** D Dutta, A Roy Chowdhury, U Bhattacharya, SK Parui. *International Conference on Frontiers in Handwriting Recognition (ICFHR), 2014.*
 * **Scene text detection using sparse stroke information and MLP.** A Roy Chowdhury, U Bhattacharya, SK Parui. *International Conference on Pattern Recognition (ICPR), 2012.*
 * **Building a Personal Handwriting Recognizer on an Android Device.** D Dutta, A Roy Chowdhury, U Bhattacharya, SK Parui. *International Conference on Frontiers in Handwriting Recognition (ICFHR), 2012.*
