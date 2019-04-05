@@ -13,6 +13,33 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 ---
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
+
+
+              
 * **Unsupervised Hard Example Mining from Videos for Improved Object Detection.** SouYoung Jin\*, Aruni RoyChowdhury\*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty, and Erik Learned-Miller. *European Conference on Computer Vision (ECCV), 2018*. [{paper}](https://people.cs.umass.edu/~arunirc/downloads/pubs/unsup_video_eccv2018.pdf) [{project page}](http://vis-www.cs.umass.edu/unsupVideo/)
 * **The Best of Both Worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation.** Pia Bideau, Aruni RoyChowdhury, Rakesh Menon, Erik Learned-Miller. *Computer Vision and Pattern Recognition (CVPR), 2018*.[{project page}](http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/index.html)
 * **Reducing Duplicate Filters in Deep Neural Networks.** Aruni RoyChowdhury, Prakhar Sharma and Erik Learned-Miller. *NIPS workshop on Deep Learning: Bridging Theory and Practice (DLTP), 2017*. [{paper}](http://people.cs.umass.edu/~arunirc/downloads/pubs/redundant_filter_dltp2017.pdf)
