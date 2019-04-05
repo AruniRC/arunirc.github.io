@@ -28,7 +28,9 @@ layouts_gallery:
 <tbody>
 <tr>
 <td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">
+  **Unsupervised Hard Example Mining from Videos for Improved Object Detection.** SouYoung Jin\*, Aruni RoyChowdhury\*, Huaizu Jiang, Ashish Singh, Aditya Prasad, Deep Chakraborty, and Erik Learned-Miller. *European Conference on Computer Vision (ECCV), 2018*. [{paper}](https://people.cs.umass.edu/~arunirc/downloads/pubs/unsup_video_eccv2018.pdf) [{project page}](http://vis-www.cs.umass.edu/unsupVideo/)
+  </td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>
