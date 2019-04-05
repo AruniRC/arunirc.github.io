@@ -138,7 +138,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <br>
   <a href="http://vis-www.cs.umass.edu/bcnn/docs/bcnn_iccv15.pdf">[paper]</a>
   <a href="http://vis-www.cs.umass.edu/bcnn/">[project page]</a>
-  <mark(oral)</mark>
+  <mark>(oral)</mark>
   </td>
 </tr>
 
