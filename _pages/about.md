@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "PhD candidate at the UMass Computer Vision Lab."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -14,7 +14,7 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
-I'm a final year graduate student in the MS/PhD programme at the [UMass Computer Vision Lab](http://vis-www.cs.umass.edu/). My research interests are in **Computer Vision** and **Machine Learning**, spanning work in unsupervised domain adaptation, object detection, fine-grained recognition and face recognition. I am advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and co-advised by Prof. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and Prof. [Liangliang Cao](http://llcao.net/).
+I'm a final year graduate student in the MS/PhD programme at the [UMass Computer Vision Lab](http://vis-www.cs.umass.edu/). My research interests are in **Computer Vision** and **Machine Learning**, spanning work in <font color="DarkGreen">unsupervised domain adaptation</font>, <font color="DarkGreen">object detection</font>, <font color="DarkGreen">fine-grained recognition</font> and <font color="DarkGreen">face recognition</font>. I am advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and co-advised by Prof. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and Prof. [Liangliang Cao](http://llcao.net/).
 
 <mark>Here is a link to my <a href="https://www.dropbox.com/s/z4bqmtl8mhgk7h3/cv_arunirc_2019.pdf?dl=0">[CV]</a></mark>. 
 
