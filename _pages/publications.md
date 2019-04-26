@@ -33,7 +33,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <em>Computer Vision and Pattern Recognition (CVPR), 2019 </em>. 
   <br>
      <a href="http://vis-www.cs.umass.edu/unsupVideo/docs/self-train_cvpr2019.pdf">[paper]</a>
-     <a href="http://vis-www.cs.umass.edu/unsupVideo/">[project page]</a>
+     <a href="http://vis-www.cs.umass.edu/self-train/">[project page]</a>
   <mark>NEW</mark>
   </td>
 </tr>
