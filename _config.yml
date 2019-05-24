@@ -77,11 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aruni RC"
+  name             : "Aruni RoyChowdhury"
   avatar           : "http://people.cs.umass.edu/~arunirc/images/dp1.jpg"
-  bio              : "I’m a final year PhD candidate at the UMass Computer Vision lab. My research interests are in Computer Vision and Machine Learning, spanning work in unsupervised domain adaptation, object detection, fine-grained recognition and face recognition. I am advised by Prof. Erik Learned-Miller, and co-advised by Prof. Subhransu Maji and Prof. Liangliang Cao.
-
-I am on the job market."
+  bio              : "Final year PhD candidate at the UMass Computer Vision lab. Research interests are in Computer Vision and Machine Learning, spanning work in unsupervised domain adaptation, object detection, fine-grained recognition and face recognition."
   location         : "Amherst, MA."
   email            :
   uri              : "http://people.cs.umass.edu/~arunirc"
