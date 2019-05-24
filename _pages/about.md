@@ -17,7 +17,7 @@ layouts_gallery:
 I'm a final year graduate student in the MS/PhD programme at the [UMass Computer Vision Lab](http://vis-www.cs.umass.edu/). My research interests are in **Computer Vision** and **Machine Learning**, spanning work in <font color="DarkGreen">unsupervised domain adaptation</font>, <font color="DarkGreen">object detection</font>, <font color="DarkGreen">fine-grained recognition</font> and <font color="DarkGreen">face recognition</font>. I am advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and co-advised by Prof. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and Prof. [Liangliang Cao](http://llcao.net/).
 
 <mark>I am on the job market.</mark>
-<mark>Here is a link to my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/cv_arunirc_2019.pdf">[CV]</a></mark>. 
+<mark>Here is a link to my <a href="https://arunirc.github.io/assets/cv_arunirc_2019.pdf">[CV]</a></mark>. 
 
 Please check my [Publications](https://arunirc.github.io/publications/) page for more details on my research.
 
