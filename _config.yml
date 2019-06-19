@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Aruni RoyChowdhury"
-  avatar           : "http://people.cs.umass.edu/~arunirc/images/dp1.jpg"
+  avatar           : "assets/fb_dp.jpg"
   bio              : "PhD candidate at the UMass Computer Vision lab. Interested in label-efficient learning. Worked on unsupervised domain adaptation, object detection, fine-grained recognition and face recognition."
   location         : "Amherst, MA."
   email            :
