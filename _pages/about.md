@@ -19,7 +19,7 @@ I recently started as an Applied Scientist at AWS AI.
 I finished my MS/PhD at the [**UMass Computer Vision Lab**](http://vis-www.cs.umass.edu/), advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and co-advised by Profs. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and [Liangliang Cao](http://llcao.net/).
 My broad interests are in *label-efficient* approaches to learning, focusing on leveraging *contextual cues* such as temporal continuity in videos. I have worked on projects spanning <font color="DarkGreen">unsupervised domain adaptation</font>, <font color="DarkGreen">object detection</font>, <font color="DarkGreen">fine-grained recognition</font> and <font color="DarkGreen">face recognition</font>. Please check my [Publications](https://arunirc.github.io/publications/) page for more details on my research.
 
-<mark>Here is a link to a <a href="https://arunirc.github.io/assets/cv_arunirc_2019.pdf">[CV]</a></mark> (not updated).
+Here is a link to an older <a href="https://arunirc.github.io/assets/cv_arunirc_2019.pdf">[CV]</a>.
 
 I maintain the website for [FDDB](http://vis-www.cs.umass.edu/fddb/) - a benchmark for detecting faces. I have been a reviewer for CVPR, ICCV, NIPS/NeurIPS and the journals TPAMI and CVIU. At UMass I helped organize the [Machine Learning and Friends Lunch](https://people.cs.umass.edu/~mlfriend/pmwiki/pmwiki.php) (MLFL) seminar series. Earlier, I was involved in [GRiD](http://gridclub.io/), a multidisciplinary graduate student organisation for data science.
 
