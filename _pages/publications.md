@@ -30,7 +30,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <td markdown="span">
    <b>Improving Face Recognition by Clustering Unlabeled Faces in the Wild .</b> <br>
   <font color="DarkGreen">Aruni RoyChowdhury</font>, Xiang Yu, Kihyuk Sohn, Erik Learned-Miller and Manmohan Chandraker.
-  <br
+  <br>
   <em>European Conference on Computer Vision (ECCV), 2020 </em>. 
   <br>
      <a href=" ">[paper]</a>
