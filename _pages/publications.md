@@ -28,27 +28,28 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <tr>
 <td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/face-cluster_eccv2020.png" alt="[Unlabeled Faces]"> </td>
 <td markdown="span">
-   <b>Improving Face Recognition by Clustering Unlabeled Faces in the Wild .</b> <br>
+   <b>Improving Face Recognition by Clustering Unlabeled Faces in the Wild.</b> <br>
   <font color="DarkGreen">Aruni RoyChowdhury</font>, Xiang Yu, Kihyuk Sohn, Erik Learned-Miller and Manmohan Chandraker.
   <br>
   <em>European Conference on Computer Vision (ECCV), 2020 </em>. 
   <br>
-     <a href=" ">[paper]</a>
+     <a href=" ">[paper] (coming soon) </a>
   <mark>NEW</mark>
   </td>
 </tr>
 
 
 <tr>
-<td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/acd_eccv2020.png" alt="[HardExample]"> </td>
+<td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/acd_eccv2020.png" alt="[ACD PointCloud]"> </td>
 <td markdown="span">
    <b>Label-efficient Learning on Point Clouds using Approximate Convex Decompositions.</b> <br>
   Matheus Gadelha\*, <font color="DarkGreen">Aruni RoyChowdhury</font>\*, Gopal Sharma, Subhransu Maji, Rui Wang, Evangelos Kalogerakis, Liangliang Cao and Erik Learned-Miller.
   <br>
   <em>European Conference on Computer Vision (ECCV), 2020 </em>. 
   <br>
-     <a href="">[paper]</a>
-     <a href="">[project page]</a>
+     [paper]
+     [project page] 
+     <a href="https://arxiv.org/pdf/2003.13834.pdf">[arxiv]</a>
   <br>
   \* equal contribution
   <mark>NEW</mark>
@@ -60,7 +61,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <tr>
 <td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/unsupVideo/docs/intro_self-sup.png" alt="[Self-train]"> </td>
 <td markdown="span">
-   <b>Automatic adaptation of object detectors to new domains using self-training, </b> <br>
+   <b>Automatic adaptation of object detectors to new domains using self-training. </b> <br>
   <font color="DarkGreen">Aruni RoyChowdhury</font>, Prithvijit Chakrabarty, Ashish Singh, SouYoung Jin, Huaizu Jiang, Liangliang Cao and Erik Learned-Miller.
   <br>
   <em>Computer Vision and Pattern Recognition (CVPR), 2019 </em>. 
