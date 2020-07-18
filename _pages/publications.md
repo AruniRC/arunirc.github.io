@@ -33,7 +33,8 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <br>
   <em>European Conference on Computer Vision (ECCV), 2020 </em>. 
   <br>
-     <a href=" ">[paper] (coming soon) </a>
+     [paper] 
+     <a href="https://arxiv.org/pdf/2007.06995.pdf">[arxiv]</a>
   <mark>NEW</mark>
   </td>
 </tr>
