@@ -33,7 +33,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <br>
   <em>European Conference on Computer Vision (ECCV), 2020 </em>. 
   <br>
-     [paper] 
+     <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690120.pdf">[paper]</a>
      <a href="https://arxiv.org/pdf/2007.06995.pdf">[arxiv]</a>
   <mark>NEW</mark>
   </td>
@@ -48,8 +48,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <br>
   <em>European Conference on Computer Vision (ECCV), 2020 </em>. 
   <br>
-     [paper]
-     [project page] 
+     <a href="http://mgadelha.me/selfsupacd/index.html">[project page]</a>
      <a href="https://arxiv.org/pdf/2003.13834.pdf">[arxiv]</a>
   <br>
   \* equal contribution
@@ -146,7 +145,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   <em>Advances in Face Detection and Facial Image Analysis, Springer, 2016.</em>. 
   <br>
     <a href="https://people.cs.umass.edu/~elm/papers/LFW_survey.pdf">[paper]</a>
-    <a href="http://vis-www.cs.umass.edu/lfw/">[poject page]</a>
+    <a href="http://vis-www.cs.umass.edu/lfw/">[project page]</a>
   </td>
 </tr>
 
