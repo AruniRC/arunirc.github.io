@@ -16,6 +16,3 @@ layouts_gallery:
 
     arunirc[at]cs.umass.edu
     
-    Computer Science Building, Rm 256 (2)
-    140 Governors Drive
-    Amherst, MA 01002.
