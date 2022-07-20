@@ -26,6 +26,20 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
   
 
 <tr>
+<td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/surfit.PNG" alt="[PrimFit]"> </td>
+<td markdown="span">
+   <b>PrimFit: Learning to Fit Primitives Improves Few Shot Learning on Point Clouds.</b> <br>
+  Gopal Sharma, Bidya Dash, <font color="DarkGreen">Aruni RoyChowdhury</font>, Matheus Gadelha, Marios Loizou, Liangliang Cao, Rui Wang, Erik Learned-Miller, Subhransu Maji and Evangelos Kalogerakis.
+  <br>
+  <em>Symposium on Geometry Processing (SGP), 2022 </em>. 
+  <br>
+     <a href="https://arxiv.org/pdf/2112.13942.pdf">[arxiv]</a>
+  <mark>[NEW]</mark>
+  </td>
+</tr>
+  
+
+<tr>
 <td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/face-cluster_eccv2020.png" alt="[Unlabeled Faces]"> </td>
 <td markdown="span">
    <b>Improving Face Recognition by Clustering Unlabeled Faces in the Wild.</b> <br>
@@ -36,7 +50,6 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
      <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690120.pdf">[paper]</a>
      <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690120-supp.pdf">[supp-mat]</a>
      <a href="https://arxiv.org/pdf/2007.06995.pdf">[arxiv]</a>
-  <mark>NEW</mark>
   </td>
 </tr>
 
@@ -53,7 +66,6 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
      <a href="https://arxiv.org/pdf/2003.13834.pdf">[arxiv]</a>
   <br>
   \* equal contribution
-  <mark>NEW</mark>
   </td>
 </tr>
 
