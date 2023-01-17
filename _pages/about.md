@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Applied Scientist at AWS AI"
+excerpt: "Computer Vision at MathWorks"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -14,9 +14,9 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
-I recently started as an Applied Scientist at AWS AI.
+I recently started in the Computer Vision Toolbox team at MathWorks. Earlier, I was an Applied Scientist at AWS AI Labs in Pasadena, working on visual-language models for document understanding.
 
-I finished my MS/PhD at the [**UMass Computer Vision Lab**](http://vis-www.cs.umass.edu/), advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and worked with Profs. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and [Liangliang Cao](http://llcao.net/).
+I completed my MS/PhD at the [**UMass Computer Vision Lab**](http://vis-www.cs.umass.edu/), advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and worked with Profs. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and [Liangliang Cao](http://llcao.net/).
 My broad interests are in *label-efficient* approaches to learning, focusing on leveraging *contextual cues* such as temporal continuity in videos. I have worked on projects spanning <font color="DarkGreen">unsupervised domain adaptation</font>, <font color="DarkGreen">object detection</font>, <font color="DarkGreen">fine-grained recognition</font> and <font color="DarkGreen">face recognition</font>. Please check my [Publications](https://arunirc.github.io/publications/) page for more details on my research.
 
 Here is a link to my <a href="https://arunirc.github.io/assets/cv_arunirc_2020.pdf">[CV]</a>.
