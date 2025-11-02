@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Blog"
     url: /year-archive/
   - title: "Contact"
