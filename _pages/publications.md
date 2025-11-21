@@ -113,14 +113,14 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 </tr>
 
 <tr>
-<td markdown="span"> <img style="display:block;" src="http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/methodOverview.png" alt="[MotionSegment]"> </td>
+<td markdown="span"> <img style="display:block;" src="https://lh3.googleusercontent.com/sitesv/AAzXCkcrA1libvcNwcJl0kQw_ouYTRWkQT2fze_aHh1nPbxC-Xpln94JJ2P_mUG8Di6-QFo00UXs5xdOTMgJGJEdmWjuWg9C-1FdUtT1M30SuzLKTHP9oNnpSlRtwV2rfZ7K4yy8HCX6TB9C-hFbDy_PVYXLXg6-wboZFL-zLIZrVmqosgDqbjZmneHSuAIMZzirCgJNJ7YA8gweF7G-TWplXPJfn--yk62Ljeqp=w1280" alt="[MotionSegment]"> </td>
 <td markdown="span">
    <b>The Best of Both Worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation.</b> <br>
   Pia Bideau, <font color="DarkGreen">Aruni RoyChowdhury</font>, Rakesh Menon, Erik Learned-Miller.
   <br>
   <em>Computer Vision and Pattern Recognition (CVPR), 2018 </em>. 
   <br>
-     <a href="http://vis-www.cs.umass.edu/motionSegmentation/website_CVPR18/index.html">[project page]</a>
+     <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Bideau_The_Best_of_CVPR_2018_paper.pdf">[paper]</a>
   </td>
 </tr>
 
