@@ -23,18 +23,30 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <col width="70%" />
 </colgroup>
 <tbody>
+
+<tr>
+<td markdown="span"> <img style="display:block;" src="https://arxiv.org/html/2510.11565v1/x1.png" alt="[SNAP]"> </td>
+<td markdown="span">
+   <b>SNAP: Towards Segmenting Anything in Any Point Cloud.</b> <br>
+  Aniket Gupta*, Hanhui Wang*, Charles Saunders, <font color="DarkGreen">Aruni Roy Chowdhury</font>, Hanumant Singh, Huaizu Jiang.
+  <br>
+  <em>International Conference on 3D Vision (3DV), 2026 </em>. 
+  <br>
+     <a href="https://arxiv.org/abs/2510.11565">[arxiv]</a> <a href="https://arxiv.org/pdf/2510.11565">[PDF]</a>
+  <mark>[NEW]</mark>
+  </td>
+</tr>
   
 
 <tr>
 <td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/surfit.PNG" alt="[PrimFit]"> </td>
 <td markdown="span">
-   <b>PrimFit: Learning to Fit Primitives Improves Few Shot Learning on Point Clouds.</b> <br>
+   <b>PriFit: Learning to Fit Primitives Improves Few Shot Learning on Point Clouds.</b> <br>
   Gopal Sharma, Bidya Dash, <font color="DarkGreen">Aruni RoyChowdhury</font>, Matheus Gadelha, Marios Loizou, Liangliang Cao, Rui Wang, Erik Learned-Miller, Subhransu Maji and Evangelos Kalogerakis.
   <br>
   <em>Symposium on Geometry Processing (SGP), 2022 </em>. 
   <br>
      <a href="https://arxiv.org/pdf/2112.13942.pdf">[arxiv]</a>
-  <mark>[NEW]</mark>
   </td>
 </tr>
   
