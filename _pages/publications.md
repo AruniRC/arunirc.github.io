@@ -28,7 +28,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <td markdown="span"> <img style="display:block;" src="https://arxiv.org/html/2510.11565v1/x1.png" alt="[SNAP]"> </td>
 <td markdown="span">
    <b>SNAP: Towards Segmenting Anything in Any Point Cloud.</b> <br>
-  Aniket Gupta*, Hanhui Wang*, Charles Saunders, <font color="DarkGreen">Aruni Roy Chowdhury</font>, Hanumant Singh, Huaizu Jiang.
+  Aniket Gupta\*, Hanhui Wang\*, Charles Saunders, <font color="DarkGreen">Aruni Roy Chowdhury</font>, Hanumant Singh, Huaizu Jiang.
   <br>
   <em>International Conference on 3D Vision (3DV), 2026 </em>. 
   <br>
