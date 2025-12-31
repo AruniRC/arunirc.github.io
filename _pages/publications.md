@@ -28,15 +28,32 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <td markdown="span"> <img style="display:block;" src="https://arxiv.org/html/2510.11565v1/x1.png" alt="[SNAP]"> </td>
 <td markdown="span">
    <b>SNAP: Towards Segmenting Anything in Any Point Cloud.</b> <br>
-  Aniket Gupta\*, Hanhui Wang\*, Charles Saunders, <font color="DarkGreen">Aruni Roy Chowdhury</font>, Hanumant Singh, Huaizu Jiang.
+  Aniket Gupta\*, Hanhui Wang\*, Charles Saunders, <font color="DarkGreen">Aruni RoyChowdhury</font>, Hanumant Singh, Huaizu Jiang.
   <br>
   <em>International Conference on 3D Vision (3DV), 2026 </em>. 
   <br>
-     <a href="https://arxiv.org/abs/2510.11565">[arxiv]</a> <a href="https://arxiv.org/pdf/2510.11565">[PDF]</a>
-  <mark>[NEW]</mark>
+    <a href="https://arxiv.org/pdf/2510.11565">[paper]</a>
+    <a href="https://neu-vi.github.io/SNAP/">[project page]</a>
+    <a href="https://arxiv.org/abs/2510.11565">[arxiv]</a> 
+    <a href="https://github.com/neu-vi/SNAP">[code]</a>
+    <mark>[Oral]</mark>
   </td>
 </tr>
-  
+
+
+<tr>
+<td markdown="span"> <img style="display:block;" src="" alt="[DocTR]"> </td>
+<td markdown="span">
+   <b>DocTr: Document Transformer for Structured Information Extraction in Documents.</b> <br>
+  Haofu Liao, <font color="DarkGreen">Aruni RoyChowdhury</font>, Weijian Li, Ankan Bansal, Yuting Zhang, Zhuowen Tu, Ravi Kumar Satzoda, R. Manmatha and Vijay Mahadevan.
+  <br>
+  <em>International Conference on Computer Vision (ICCV), 2023 </em>. 
+  <br>
+     <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liao_DocTr_Document_Transformer_for_Structured_Information_Extraction_in_Documents_ICCV_2023_paper.pdf">[paper]</a>
+     <a href="https://arxiv.org/abs/2307.07929">[arxiv]</a>
+  </td>
+</tr>
+
 
 <tr>
 <td markdown="span"> <img style="display:block;" src="https://raw.githubusercontent.com/AruniRC/arunirc.github.io/master/assets/surfit.PNG" alt="[PrimFit]"> </td>
