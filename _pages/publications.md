@@ -25,6 +25,22 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
 <tbody>
 
 <tr>
+<td markdown="span"> <img style="display:block;" src="https://uva-computer-vision-lab.github.io/point-moe/static/images/main_figure.jpg" alt="[Point-MoE]"> </td>
+<td markdown="span">
+   <b>Point-MoE: Large-Scale Multi-Dataset Training with Mixture-of-Experts for 3D Semantic Segmentation.</b> <br>
+  Xuweiyi Chen, Wentao Zhou, <font color="DarkGreen">Aruni RoyChowdhury</font>, Zezhou Cheng.
+  <br>
+  <em>International Conference on Learning Representations (ICLR), 2026 </em>. 
+  <br>
+    <a href="https://openreview.net/pdf?id=35HahPHrFG">[paper]</a>
+    <a href="https://uva-computer-vision-lab.github.io/point-moe/">[project page]</a>
+    <a href="https://arxiv.org/abs/2505.23926">[arxiv]</a> 
+    <a href="https://github.com/UVA-Computer-Vision-Lab/point_moe">[code]</a>
+    <mark>[NEW]</mark>
+  </td>
+</tr>
+
+<tr>
 <td markdown="span"> <img style="display:block;" src="https://arxiv.org/html/2510.11565v1/x1.png" alt="[SNAP]"> </td>
 <td markdown="span">
    <b>SNAP: Towards Segmenting Anything in Any Point Cloud.</b> <br>
