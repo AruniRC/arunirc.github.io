@@ -52,7 +52,7 @@ Please check the latest papers on [Google scholar](https://scholar.google.com/ci
     <a href="https://neu-vi.github.io/SNAP/">[project page]</a>
     <a href="https://arxiv.org/abs/2510.11565">[arxiv]</a> 
     <a href="https://github.com/neu-vi/SNAP">[code]</a>
-    <mark>[Oral]</mark> <mark>[ [Award Candidate](https://3dvconf.github.io/2026/awards/) ]</mark>
+    <mark>[Oral]</mark> <mark>[Award Candidate]</mark>
   </td>
 </tr>
 
