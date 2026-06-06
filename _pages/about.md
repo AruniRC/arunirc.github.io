@@ -14,17 +14,13 @@ layouts_gallery:
     alt: "archive layout example"
 ---
 
-I recently started in the Computer Vision Toolbox team at MathWorks. Earlier, I was an Applied Scientist at AWS AI Labs in Pasadena, working on visual-language models for document understanding.
 
-I completed my MS/PhD at the [**UMass Computer Vision Lab**](http://vis-www.cs.umass.edu/), advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and worked with Profs. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and [Liangliang Cao](http://llcao.net/).
-My broad interests are in *label-efficient* approaches to learning, focusing on leveraging *contextual cues* such as temporal continuity in videos and convexity priors for 3D shapes. I have worked on projects spanning <font color="DarkGreen">3D vision</font>, <font color="DarkGreen">unsupervised domain adaptation</font>, <font color="DarkGreen">object detection</font>, <font color="DarkGreen">fine-grained recognition</font> and <font color="DarkGreen">face recognition</font>. I have an Erdős number of 4 (Aruni → Subhransu Maji → Jitendra Malik → Fan Chung → Paul Erdős). 
+I am a Principal Engineer in Computer Vision at MathWorks, working on geometric scene understanding, 3D reconstruction, and scalable visual perception systems. My research combines classical geometry, modern machine learning, and real-world deployment, with recent work on point cloud understanding, scene reconstruction and dynamic SLAM for large-scale 3D environments. I actively collaborate with researchers in academia and am interested in translating advances in computer vision research into practical tools for engineering and scientific applications.
+
+My earlier work focused on leveraging *contextual cues* such as temporal continuity in videos and convexity priors for 3D shapes. I have worked on projects spanning <font color="DarkGreen">3D vision</font>, <font color="DarkGreen">unsupervised domain adaptation</font>, <font color="DarkGreen">object detection</font>, <font color="DarkGreen">fine-grained recognition</font> and <font color="DarkGreen">face recognition</font>. 
+
+My MS/PhD was the [**UMass Computer Vision Lab**](http://vis-www.cs.umass.edu/), advised by Prof. [Erik Learned-Miller](http://people.cs.umass.edu/~elm/), and worked with Profs. [Subhransu Maji](http://people.cs.umass.edu/~smaji/) and [Liangliang Cao](http://llcao.net/). Before MathWorks, I was an Applied Scientist at AWS AI Labs in Pasadena, working on visual-language models for document understanding. I have an Erdős number of 4 (Aruni → Subhransu Maji → Jitendra Malik → Fan Chung → Paul Erdős).
 
 Please check my [Publications](https://arunirc.github.io/publications/) page for more details on my research.
 
 Here is a link to my (outdated) <a href="https://arunirc.github.io/assets/cv_arunirc_2020.pdf">[CV]</a>.
-
-I maintained the website for [FDDB](http://vis-www.cs.umass.edu/fddb/) - a benchmark for detecting faces. I have been a reviewer for CVPR, ICCV, ECCV, NeurIPS and the journals TPAMI, TIP and CVIU. At UMass I helped organize the [Machine Learning and Friends Lunch](https://people.cs.umass.edu/~mlfriend/pmwiki/pmwiki.php) (MLFL) seminar series. Earlier, I was involved in [GRiD](http://gridclub.io/), a multidisciplinary graduate student organisation for data science.
-
-I interned with NEC [Media Analytics Lab](http://www.nec-labs.com/research-departments/media-analytics/media-analytics-people) in San Jose over the summer of 2019, working with [Xiang Yu](https://sites.google.com/site/xiangyurutgers/home), [Kihyuk Sohn](https://sites.google.com/site/kihyuksml/) and [Manmohan Chandraker](http://www.nec-labs.com/~manu/). Earlier, I spent two happy summers in 2017 and 2014 interning at The Mathworks Inc. with the [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) team.
-
-In the past I had worked on scene text detection and handwriting recognition at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/). My mentors there had been Profs [Ujjwal Bhattacharya](http://www.isical.ac.in/~ujjwal/) and [Swapan K Parui](http://www.isical.ac.in/~swapan/). 
